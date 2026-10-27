@@ -276,6 +276,12 @@ CI 校验通过后自动构建并推送 `ghcr.io/librespark/libretv:<版本>`（
 | [LibreTV-for-HarmonyOS](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS) | HarmonyOS NEXT 原生客户端（ArkTS + ArkUI + AVPlayer） |
 
 > 旧版 LibreTV（静态 HTML + Express）完整代码见 [backup-2025 分支](https://github.com/LibreSpark/LibreTV/tree/backup-2025)。
+>
+> 非凡资源：https://ffzy5.tv/api.php/provide/vod
+暴风资源：https://bfzyapi.com/api.php/provide/vod
+天涯资源：https://tyyszy.com/api.php/provide/vod
+极速资源：https://jszyapi.com/api.php/provide/vod
+
 
 ## 免责声明
 
